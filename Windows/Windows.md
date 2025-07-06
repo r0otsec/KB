@@ -1,0 +1,6 @@
+![[wiondows.png]]
+- [[Credential Guard]]
+- [[Credential Manager]]
+- [[DLLS (Dynamic Link Libraries)]]
+- [[LSA (Local Security Authority)]]
+- [[LSASS (Local Security Authority Subsystem Service)]]

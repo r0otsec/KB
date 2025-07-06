@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "319679110227ebf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb8f701d192b813a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d112c81c0c5d791e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fbdca1565ee1d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db4da0f67001e543",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d61ba0667b6af101",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SAM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "206751b5f9ca8802",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "5ebe140c19b67d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "84aef2adad99288c",
+        "type": "tabs",
+        "dimension": 32.76269185360094,
+        "children": [
+          {
+            "id": "5d62329066a0e33d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Global Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Global Index"
+            }
+          },
+          {
+            "id": "4bc7c689b417c75b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b3b9e32ba919e942",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f9cd213f5ddef9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Global Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Global Index"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0609095acc46ba81",
+        "type": "tabs",
+        "dimension": 32.76269185360094,
+        "children": [
+          {
+            "id": "8a208085b6325d11",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "06479f31eacb0478",
+        "type": "tabs",
+        "dimension": 34.47461629279811,
+        "children": [
+          {
+            "id": "aca820ed371b7b5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 464.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "db4da0f67001e543",
+  "lastOpenFiles": [
+    "Attacks/AS-REP Roasting.md",
+    "Global Index.md",
+    "Attacks/Constrained Delegation Attack.md",
+    "Programming/Programming.md",
+    "Writeups/Writeups.md",
+    "Writeups/PwnedLabs/GCP.md",
+    "Active Directory/ACL (Access Control List).md",
+    "Active Directory/Active Directory.md",
+    "Attacks/Certificate Attacks.md",
+    "Attacks/ARP Spoofing.md",
+    "Attacks/ESC7.md",
+    "Attacks/DCSync Attack.md",
+    "Attacks/Drupal Attacks.md",
+    "Cloud/Entra ID.md",
+    "Windows/Windows.md",
+    "00-Attachments/writeups.png",
+    "Phishing/Phishing.md",
+    "Phishing/DKIM.md",
+    "Cloud/Cloud.md",
+    "Writeups/PwnedLabs",
+    "Writeups",
+    "Development & Tracker - DO NOT TOUCH.md",
+    "SAP Research/Background/HANA.md",
+    "SAP Research/Background/DIAG.md",
+    "SAP Research/Background/ABAP Stack.md",
+    "SAP Research/Background/ABAP.md",
+    "SAP Research/Background/Master Data.md",
+    "SAP Research/Background/Transaction Data.md",
+    "Active Directory/Kerberos.md",
+    "00-Attachments/wiondows.png",
+    "00-Attachments/web.png",
+    "00-Attachments/tools.png",
+    "00-Attachments/technology.png",
+    "00-Attachments/sap.png",
+    "00-Attachments/redteam.png",
+    "00-Attachments/protocols.png",
+    "00-Attachments/programming.png",
+    "00-Attachments/ps.png",
+    "SAP Research/Background",
+    "Excalidraw",
+    "00-Attachments/spongebob-mr-krabs.gif.crdownload",
+    "SAP Research",
+    "Operation Technology",
+    "00-Attachments/CD.webp.crdownload",
+    "Protocols",
+    "Pivoting"
+  ]
+}

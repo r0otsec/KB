@@ -1,0 +1,7 @@
+---
+tags:
+  - redteam
+  - malware
+  - blueteam
+date: 2023-09-1
+---

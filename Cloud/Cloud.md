@@ -1,0 +1,2 @@
+![[cloud.png]]
+- [[Entra ID]]
