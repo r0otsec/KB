@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Index.md",
+                "file": "Programming/C - Return.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Index"
+              "title": "C - Return"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Index.md",
+                "file": "Programming/C - Return.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Global Index"
+              "title": "Outline of C - Return"
             }
           }
         ],
@@ -205,12 +205,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db4da0f67001e543",
+  "active": "fb8f701d192b813a",
   "lastOpenFiles": [
-    "Attacks/AS-REP Roasting.md",
-    "Global Index.md",
-    "Attacks/Constrained Delegation Attack.md",
+    "Programming/C - Functions.md",
+    "Programming/C - If Statements.md",
+    "Programming/C - Return.md",
+    "Programming/C - Format Specifiers.md",
+    "Programming/C - Logical Operators.md",
+    "Programming/C - Math Functions.md",
+    "Programming/C - Nested If Statements.md",
+    "Programming/C - User Input.md",
+    "Programming/C - Variables.md",
     "Programming/Programming.md",
+    "Programming/C - Operators.md",
+    "Programming/C - Switches.md",
+    "Global Index.md",
+    "README.md",
+    "Attacks/Attacks Index.md",
+    "Windows/Windows.md",
+    "Pasted image 20250706171749.png",
+    "Pasted image 20250706171645.png",
+    "Attacks/AS-REP Roasting.md",
+    "Attacks/Constrained Delegation Attack.md",
     "Writeups/Writeups.md",
     "Writeups/PwnedLabs/GCP.md",
     "Active Directory/ACL (Access Control List).md",
@@ -219,23 +235,9 @@
     "Attacks/ARP Spoofing.md",
     "Attacks/ESC7.md",
     "Attacks/DCSync Attack.md",
-    "Attacks/Drupal Attacks.md",
-    "Cloud/Entra ID.md",
-    "Windows/Windows.md",
     "00-Attachments/writeups.png",
-    "Phishing/Phishing.md",
-    "Phishing/DKIM.md",
-    "Cloud/Cloud.md",
     "Writeups/PwnedLabs",
     "Writeups",
-    "Development & Tracker - DO NOT TOUCH.md",
-    "SAP Research/Background/HANA.md",
-    "SAP Research/Background/DIAG.md",
-    "SAP Research/Background/ABAP Stack.md",
-    "SAP Research/Background/ABAP.md",
-    "SAP Research/Background/Master Data.md",
-    "SAP Research/Background/Transaction Data.md",
-    "Active Directory/Kerberos.md",
     "00-Attachments/wiondows.png",
     "00-Attachments/web.png",
     "00-Attachments/tools.png",
@@ -243,8 +245,6 @@
     "00-Attachments/sap.png",
     "00-Attachments/redteam.png",
     "00-Attachments/protocols.png",
-    "00-Attachments/programming.png",
-    "00-Attachments/ps.png",
     "SAP Research/Background",
     "Excalidraw",
     "00-Attachments/spongebob-mr-krabs.gif.crdownload",
