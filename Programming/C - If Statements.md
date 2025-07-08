@@ -12,6 +12,10 @@
 
 - If statements are read top down
 	- if the third statement and first statement are true, the first gets executed.
+## Condensed Statements
+
+- For multiple statements, they may be condensed such as:
+	- `else if ((A == 1 && B == 3) || (A == 2 && B == 1) || (A == 3 && B == 2))`
 ## Code Blocks
 
 ### Basic If Statement
