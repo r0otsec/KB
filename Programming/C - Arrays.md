@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Arrays
 
 - Fixed size collection of elements of same data type.

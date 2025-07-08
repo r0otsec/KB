@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # User Input
 
 - If assigning an empty variable like a char array, the blocks of memory the variables are using may already contain values from previous use.

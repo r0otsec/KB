@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#powershell  ",
@@ -174,6 +174,13 @@
         "a": 1,
         "rgb": 5147133
       }
+    },
+    {
+      "query": "tag:#programming",
+      "color": {
+        "a": 1,
+        "rgb": 14429742
+      }
     }
   ],
   "collapse-display": false,
@@ -186,6 +193,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.02568807420159954,
+  "scale": 0.034969441919329804,
   "close": true
 }

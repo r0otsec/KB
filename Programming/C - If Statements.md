@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # If Statements
 
 - Do some code if a condition is true

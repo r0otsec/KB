@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # For Loops
 
 - Repeats code for `x` amount of times.

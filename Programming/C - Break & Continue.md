@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Break & Continue
 
 - `break` - break out of a loop (stop)

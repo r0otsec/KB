@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Nested If Statements
 
 - If statements within if statements within if statements

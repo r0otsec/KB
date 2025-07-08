@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Return
 
 - `return` simply returns a value back to where you call a function.

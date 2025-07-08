@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Math Functions
 
 - Functions need the `<math.h>` header file.

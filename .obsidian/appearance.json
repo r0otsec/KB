@@ -1,7 +1,9 @@
 {
   "cssTheme": "",
   "enabledCssSnippets": [
-    "aaaaaaaaaaaaaaaaaa"
+    "aaaaaaaaaaaaaaaaaa",
+    "responsive-yt",
+    "yt"
   ],
   "theme": "obsidian",
   "baseFontSize": 16,

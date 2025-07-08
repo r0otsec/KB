@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Variable Scope
 
 - Scope = where a variable is recognized/accessible.

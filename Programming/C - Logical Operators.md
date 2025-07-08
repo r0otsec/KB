@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Logical Operators
 
 - Used to combine or modify boolean expressions

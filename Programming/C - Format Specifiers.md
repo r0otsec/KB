@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - C
+date: 2025-08-07
+---
 # Format Specifiers
 
 - Special tokens to specify data type/optional modifiers
